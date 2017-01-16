@@ -9,7 +9,7 @@ Home Page
 
 ![screenshot](https://raw.githubusercontent.com/iamveronica/veganbunny.com/master/home.png)
 
-About Footer
+Footer
 
 ![screenshot](https://raw.githubusercontent.com/iamveronica/veganbunny.com/master/about.png)
 
